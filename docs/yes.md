@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yes
+title: yes
 nav_order: 3
 ---
 
