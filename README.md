@@ -4,6 +4,15 @@ You can use the [editor on GitHub](https://github.com/martinsolent/dc_tut/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Link button](http://example.com/){: .btn }
+
+[Link button](http://example.com/){: .btn .btn-purple }
+[Link button](http://example.com/){: .btn .btn-blue }
+[Link button](http://example.com/){: .btn .btn-green }
+
+[Link button](http://example.com/){: .btn .btn-outline }
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
