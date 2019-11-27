@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching Scheme
+title: Week 1
 nav_order: 4
 ---
 
