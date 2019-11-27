@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Week 1
+title: Week 2
 nav_order: 5
 ---
 
 {: .no_toc }
 
-# Weekly Teaching Scheme
+# Week 2
