@@ -1,9 +1,9 @@
 ---
 layout: default
-title: yes
+title: Teaching Scheme
 nav_order: 4
 ---
 
 {: .no_toc }
 
-# Yes
+# Weekly Teaching Scheme
