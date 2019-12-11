@@ -17,7 +17,11 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn }
 
 
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } Link button{: .btn .btn-blue } Link button{: .btn .btn-green }
+[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } 
+
+[Download Walkthrough]{: .btn .btn-blue } 
+
+[Download Walkthrough]{: .btn .btn-green }
 
 
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-outline }
