@@ -11,17 +11,15 @@ permalink: /
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple .mr-2 }
-[Button ](http://example.com/){: .btn .btn-blue }
 
+[Button ](http://example.com/){: .btn .btn-blue }
 
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn }
 
-
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } 
 
-[Download Walkthrough]{: .btn .btn-blue } 
+[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-blue } 
 
-[Download Walkthrough]{: .btn .btn-green }
-
+[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-green }
 
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-outline }
