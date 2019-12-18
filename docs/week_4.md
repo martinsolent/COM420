@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Week 4
-nav_order: 6
+nav_order: 7
 ---
 
 {: .no_toc }
