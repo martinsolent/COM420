@@ -10,6 +10,8 @@ permalink: /
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 
+Ok GOOD
+
 
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } 
 
