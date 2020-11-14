@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Digital Creativity DES400
+# Digital Creativity COM420
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
